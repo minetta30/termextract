@@ -187,7 +187,7 @@ class TermExtract(object):
     
 if __name__ == "__main__":
     import MeCab
-    text = "東京市京橋区入船町8丁目（現・東京都中央区明石町）に牛乳製造販売業を営む新原敏三、フクの長男として生まれる。"
+    text = "羅生門が、朱雀大路にある以上は、この男のほかにも、雨やみをする市女笠や揉烏帽子が、もう二三人はありそうなものである。"
 
     mecab = MeCab.Tagger()
     mecab_text = mecab.parse(text)
@@ -198,6 +198,6 @@ if __name__ == "__main__":
     modified_text = TX.get_modified_mecab_text()  # 重要な語を元に単語を連結したテキスト
     
     # 結果の比較
+    print(extracted, "\n")
     print(mecab_text)
-    print(extracted)
     print(modified_text)
