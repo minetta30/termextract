@@ -1,5 +1,5 @@
 # termextract
-termextractを使ってMeCabの形態素解析結果を上書きするクラスです。  
+termextractを使ってMeCabの形態素解析結果を上書きするクラスTermExtractを作成しました。  
 MeCabとtermextractはインストール済みであるとします。
 
 # 参考
