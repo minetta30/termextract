@@ -1,0 +1,2 @@
+# termextract
+termextractを使ってMeCabの形態素解析結果を上書きするクラスです。
