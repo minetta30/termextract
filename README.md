@@ -6,4 +6,5 @@ MeCabとtermextractはインストール済みであるとします。
 MeCab:https://taku910.github.io/mecab/  
 termextract:http://gensen.dl.itc.u-tokyo.ac.jp/pytermextract/  
 
-https://qiita.com/EastResident/items/0cdc7c5ac1f0a6b3cf1d
+itemremover:https://qiita.com/f6wbl6/items/ddd4720a3014a89d922d  
+termextractの使い方:https://qiita.com/EastResident/items/0cdc7c5ac1f0a6b3cf1d
